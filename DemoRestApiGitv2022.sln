@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRestApiGitv2022", "DemoRestApiGitv2022.csproj", "{630C5EB2-E5B6-4C70-B46B-5631E9C15953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630C5EB2-E5B6-4C70-B46B-5631E9C15953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630C5EB2-E5B6-4C70-B46B-5631E9C15953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630C5EB2-E5B6-4C70-B46B-5631E9C15953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630C5EB2-E5B6-4C70-B46B-5631E9C15953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47087236-845E-43C2-A152-76DAB821EDD1}
+	EndGlobalSection
+EndGlobal
